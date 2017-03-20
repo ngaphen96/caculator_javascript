@@ -1,0 +1,41 @@
+body{
+	background-color: lightblue;
+}
+#all {
+	width: 1000px; margin: 0 auto;
+	text-align: center;
+	border-radius: 20px;
+	border :3px solid black ;
+	width: 350px;
+	background-color: black;
+
+}
+.title {
+	color: #ffffff;
+}
+.calc-display {
+	height: 50px;
+    
+}
+.calc-display-input{
+   
+}
+.a {
+	background-color: #a4eff2;
+}
+.b{
+	background-color: #ffffff;
+}
+.c{
+	background-color: #eac2c2;}
+.d{
+	background-color: #90a4a8;
+}
+
+.calc-button {
+	width: 75px;
+	height: 75px;
+	border-radius: 10px;
+	border: 1px solid black;
+}
+
